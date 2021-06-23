@@ -1,2 +1,5 @@
 # Contact me:
-https://self-harm.github.io/self-harm/
+
+<a href="https://self-harm.github.io/self-harm/">
+  <img align="left" alt="self-harm's website" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
