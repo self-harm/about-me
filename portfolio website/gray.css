@@ -1,0 +1,22 @@
+:root {
+    --mainColor: #9c8f87;
+    --secondaryColor: #e0d2c8;
+
+    --borderColor: #c1c1c1;
+    --borderColor2: #5e335c;
+
+    --mainText: black;
+    --secondaryText: #4b5156;
+
+    --themeDotBorder: #24292e;
+    --previewBg: rgb(251, 249, 243, 0.7);
+    --previewShadow: #ebb9d1;
+    --preview2Shadow: #cac3e6;
+
+    --submitButton: black;
+    --TextOnDark: black;
+
+    --whatIDoColor: #4b5156;
+    --contactColor: black;
+    --links: #189AB4;
+}
