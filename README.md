@@ -1,2 +1,2 @@
 # Contact me:
-https://self-harm.github.io/hey/
+https://self-harm.github.io/self-harm/
